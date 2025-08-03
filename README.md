@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Zhi Yi</h1>
 
-<p align="center"> A final-year student at the University of Malaya taking Bachelor of Computer Science (Artificial Intelligence)  ||  Lead of <a href="https://gdg.community.dev/gdg-george-town/" target="_blank">Google Developer Group George Town</a>  ||  Google's <a href="https://www.womentechmakers.com/" target="_blank">Women Techmakers</a> Ambassador </p>
+<p align="center"> Operations Research Scientist at Dassault Systemes  ||  Graduated with the Bachelor of Computer Science (Artificial Intelligence)  ||  Lead of <a href="https://gdg.community.dev/gdg-george-town/" target="_blank">Google Developer Group George Town</a>  ||  Google's <a href="https://www.womentechmakers.com/" target="_blank">Women Techmakers</a> Ambassador </p>
 
 
 
 <!-- - A final-year student at the University of Malaya taking Bachelor of Computer Science (Artificial Intelligence). 
-- Lead of Google Developer Group George Town
+- Co-lead of Google Developer Group George Town
 - Ambassador for Google's Women Techmakers program.  -->
-- 🔭 I’m currently working on: my Final Year Project, an employee attendance system on a mobile application that incorporates face recognition and face anti-spoofing mechanisms to ensure secure and accurate authentication. 
-- ⚡ Fun fact: I do weight training! I love playing the guitar and piano too. I'm keen to explore BJJ as I have experience in Judo.
+- 🔭 I solve real-world complex puzzles and optimize the quality and performance of the solution. What puzzle? Imagine scheduling the most cost-efficient train schedule for the country, considering numerous labour rules constraints, in a few hours' time, or solving a schedule disruption when an accident breaks out.
+- ⚡ Recent hobbies: I build simple lego mechanims for fun.
 - 📫 How to reach me: **hozhiyi13@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
