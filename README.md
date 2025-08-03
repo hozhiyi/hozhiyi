@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Zhi Yi</h1>
 
-<p align="center"> Operations Research Scientist at Dassault Systemes  ||  Graduated with the Bachelor of Computer Science (Artificial Intelligence)  ||  Lead of <a href="https://gdg.community.dev/gdg-george-town/" target="_blank">Google Developer Group George Town</a>  ||  Google's <a href="https://www.womentechmakers.com/" target="_blank">Women Techmakers</a> Ambassador </p>
+<p align="center"> Operations Research Scientist at Dassault Systemes  ||  Graduated with the Bachelor of Computer Science (Artificial Intelligence)  ||  Co-lead of <a href="https://gdg.community.dev/gdg-george-town/" target="_blank">Google Developer Group George Town</a>  ||  Google's <a href="https://www.womentechmakers.com/" target="_blank">Women Techmakers</a> Ambassador </p>
 
 
 
-<!-- - A final-year student at the University of Malaya taking Bachelor of Computer Science (Artificial Intelligence). 
+<!-- - Operations Research Scientist at Dassault Systemes 
 - Co-lead of Google Developer Group George Town
 - Ambassador for Google's Women Techmakers program.  -->
 - 🔭 I solve real-world complex puzzles and optimize the quality and performance of the solution. What puzzle? Imagine scheduling the most cost-efficient train schedule for the country, considering numerous labour rules constraints, in a few hours' time, or solving a schedule disruption when an accident breaks out.
